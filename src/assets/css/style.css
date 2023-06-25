@@ -1,0 +1,140 @@
+header, .newsletter {
+    background-color: #232f3e;
+    color: white;
+}
+
+header a {
+    color: white !important;
+    text-decoration: none;
+}
+
+header a.dropdown-item {
+    color: black !important;
+}
+
+header a:hover {
+    color: #ff3c20 !important;
+}
+
+.welcome-top {
+    font-size: 12px;
+}
+
+.header-btn {
+    padding: 10px;
+    border-radius: 3px;
+    background-color: #ff3c20;
+    border: none;
+    color: white;
+}
+
+/* .header-links a:hover {
+    color: white;
+} */
+
+.categories-btn {
+    position: relative;
+}
+
+.shopping-bag {
+    background-color: #ff3c20;
+    border-radius: 50%;
+    padding: 10px
+}
+
+.col-2-5 {
+    flex: 0 0 auto;
+    width: 20.83333333%;
+}
+
+.col-5-5 {
+    flex: 0 0 auto;
+    width: 45.83333333%;
+}
+
+.col-9-5 {
+    flex: 0 0 auto;
+    width: 79.16666667%;
+}
+
+.main-sidebar a {
+    color: black
+}
+
+.main-sidebar a:hover {
+    color: #ff3c20;
+}
+
+.main-content img {
+    width: 100%;
+}
+
+.newsletter .socials a {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 40px;
+    color: white;
+}
+
+.newsletter .socials a:hover {
+    color: #ff3c20;
+}
+
+/* .newsletter h4  */
+
+/* LOGIN & REGISTRATION */
+.login-sidebar .nav-link {
+    border-bottom: 1px solid #ddd;
+    color: black;
+}
+.login-sidebar .nav-link:hover {
+    background-color: #eee;
+}
+
+.login-sidebar a:last-child {
+    border-bottom: none;
+}
+
+/* REGISTRATION */
+.register-form label {
+    text-align: right;
+}
+
+#feature .fe-box{
+    width: 180px;
+    text-align:center;
+    padding:25px 15px;
+    box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
+    border: 1px solid #cce7d0;
+    border-radius: 4px;
+    margin: 15px 0;
+}
+
+#feature .fe-box:hover{
+    box-shadow: 10px 10px 54px rgba(70, 62, 221, 0.1);
+}
+
+#feature .fe-box img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+#feature{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#feature .fe-box h6{
+    display: inline-block;
+    padding: 9px 8px 6px 8px;
+    line-height: 1;
+    border-radius: 4px;
+    color: #088178;
+    background-color: #ffdde4;
+}
+.banner7 > a > img{
+    width: 100% !important;
+    height: 110%;
+    margin-bottom: 20px;
+}
