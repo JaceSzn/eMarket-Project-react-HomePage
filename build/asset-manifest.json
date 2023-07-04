@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/eMarket-Project-react-HomePage/static/css/main.0127fbff.css",
+    "main.js": "/eMarket-Project-react-HomePage/static/js/main.5e7ecf11.js",
+    "static/js/787.28cb0dcd.chunk.js": "/eMarket-Project-react-HomePage/static/js/787.28cb0dcd.chunk.js",
+    "static/media/slider-2-950x450.jpg": "/eMarket-Project-react-HomePage/static/media/slider-2-950x450.bf407ecd1806d30db176.jpg",
+    "static/media/banner7.jpg": "/eMarket-Project-react-HomePage/static/media/banner7.4f4c3da6adb558670063.jpg",
+    "static/media/banner4.jpg": "/eMarket-Project-react-HomePage/static/media/banner4.002232476bc40c119c42.jpg",
+    "static/media/banner3.jpg": "/eMarket-Project-react-HomePage/static/media/banner3.6132f6f2e68e2c3abc1c.jpg",
+    "static/media/banner2.jpg": "/eMarket-Project-react-HomePage/static/media/banner2.6ba7b8fa35d5a0541927.jpg",
+    "static/media/payment.png": "/eMarket-Project-react-HomePage/static/media/payment.5e7fd0e89a080f6d5e96.png",
+    "static/media/banner1.jpg": "/eMarket-Project-react-HomePage/static/media/banner1.7e37eb8dc178ed8bfce7.jpg",
+    "static/media/18-270x270.webp": "/eMarket-Project-react-HomePage/static/media/18-270x270.c17a69110d308f0787cc.webp",
+    "static/media/6-130x130.webp": "/eMarket-Project-react-HomePage/static/media/6-130x130.db28c8dd364244f27b91.webp",
+    "static/media/10-130x130.webp": "/eMarket-Project-react-HomePage/static/media/10-130x130.3a4427fe44c026799d59.webp",
+    "static/media/20-100x100.webp": "/eMarket-Project-react-HomePage/static/media/20-100x100.a1a46203a142e7099bea.webp",
+    "static/media/6-80x80.webp": "/eMarket-Project-react-HomePage/static/media/6-80x80.4d68e4d147a02ddf0d55.webp",
+    "index.html": "/eMarket-Project-react-HomePage/index.html",
+    "main.0127fbff.css.map": "/eMarket-Project-react-HomePage/static/css/main.0127fbff.css.map",
+    "main.5e7ecf11.js.map": "/eMarket-Project-react-HomePage/static/js/main.5e7ecf11.js.map",
+    "787.28cb0dcd.chunk.js.map": "/eMarket-Project-react-HomePage/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0127fbff.css",
+    "static/js/main.5e7ecf11.js"
+  ]
+}
